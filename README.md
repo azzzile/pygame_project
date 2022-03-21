@@ -1,5 +1,5 @@
 # pygame_project
-trying to make 5 in line game using python and pygame
+made 5 in line game using python and pygame (in spring 2020)
 
 here i am finally pushed this project two years after finishing the project!!!!!
 
