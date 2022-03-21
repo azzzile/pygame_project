@@ -538,8 +538,8 @@ def show_results(screen, count, new_game_off, fon):
 
 
 all_sprites = pygame.sprite.Group()
-#load_screen(SCREEN)
-#start_screen(SCREEN)
+load_screen(SCREEN)
+start_screen(SCREEN)
 
 board = Lines(9, 9)
 
@@ -554,7 +554,7 @@ f.close()
 running = True
 #running = False
 
-gameover_screen(SCREEN)
+#gameover_screen(SCREEN)
 
 while running:
     ngame = ngame_off
